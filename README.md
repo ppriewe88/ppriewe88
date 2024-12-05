@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Patrick Priewe, a german (Karlsruhe-based) aspiring developer / data analyst! 
 
 I recently picked up learning Python and SQL and currently am on a path to build experteer in the field of data science.
@@ -16,6 +15,4 @@ Recently.... I finished my second python project! This one led me further toward
 
 Coming up soon.... I will start working on my first machine learning project! 
 
-Eventually.... I am stoked to some day combine these skills in data- and ML-based projects in the energy sector! 
-
--->
+Eventually.... I am stoked to some day combine these skills in data- and ML-based projects in the energy sector!
