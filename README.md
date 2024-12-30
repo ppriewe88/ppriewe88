@@ -2,7 +2,7 @@
 
 I'm Patrick Priewe, a german (Karlsruhe-based) aspiring developer / data analyst! 
 
-I recently picked up learning Python and SQL and currently am on a path to build experteer in the field of data science.
+I am currently on a path to build experteer in the field of data science.
 So far, I'm kinda falling in love with Python, and made my first (not so tiny) steps already using that fantastic technology!
 
 Professionaly, I am interested in the fields of energy economics and software. So far having gathered professional experience in product ownership and requirements engineering in SCRUM (software-focused, german SME doing CRM) and project management (said SME, as well as coordinating strategic projects in a big german energy supplier). Currently (as well as in the near future) aspiring to get deeper into technology and working for that purpose!
@@ -13,11 +13,10 @@ Recently.... finished my first python-project, a small (terminal-based) 2d-RPG (
 
 Recently.... I finished my second python project! This one led me further towards my true purpose of learning python: work with, examine, and visualize data!! I boosted my skills in the python packages numpy, pandas, plotly express, and dash (also including pickle and getting introduced to html-formatting)! I came up with several awesome dashboards, the project as a whole is included in jupyter notebooks (which are the state of the art medium für data analysises currently).
 
-Coming up soon.... I will start working on my first machine learning project! 
+Coming up soon.... I will finish my first machine learning project! 
 
-Eventually.... I am stoked to some day combine these skills in data- and ML-based projects in the energy sector!
+Eventually.... I am eager to contribute to a sustainable future of the german energy sector with my skills in data and ML!
 
-Feel free to have a look at my codes, contact me anytime! I think I'm a quite nice guy, totally open for conversation and growth by mutual exchange!
+Feel free to have a look at my codes, contact me anytime!
 
-Cheers,
 Patrick
