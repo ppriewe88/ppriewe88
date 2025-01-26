@@ -13,9 +13,11 @@ Recently.... finished my first python-project, a small (terminal-based) 2d-RPG (
 
 Recently.... I finished my second python project! This one led me further towards my true purpose of learning python: work with, examine, and visualize data!! I boosted my skills in the python packages numpy, pandas, plotly express, and dash (also including pickle and getting introduced to html-formatting)! I came up with several awesome dashboards, the project as a whole is included in jupyter notebooks (which are the state of the art medium für data analysises currently).
 
-Coming up soon.... I will finish my first machine learning project! 
+Recently.... I succesfully finished my first Machine Learning project in Python! I analyzed and cleaned clinical data for stroke prediction. Then, I trained a support vector classifier to get an initial glimpse of the algorithms performance on the training data. To improve the performance, I tested some methodical data enhancement (i.e. partial resampling of minority class data), engineered helping features (i.e. risk groups), and did post-processing on the results. Eventually, I prepared an integrative pipeline to provide the setup for a global optimization via gridsearch on the parameter space. What a journey!
 
-Eventually.... I am eager to contribute to a sustainable future of the german energy sector with my skills in data and ML!
+Coming up soon.... Currently I am making my first steps in time series analysis of wind power generation data. Moreover, I am gathering information and data on smart grid projects and frameworks for power system analysis.
+
+Eventually.... I am eager to find my professional homezone in industrial Data Science and ML projects!
 
 Feel free to have a look at my codes, contact me anytime!
 
