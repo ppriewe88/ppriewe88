@@ -15,7 +15,9 @@ Recently.... I finished my second python project! This one led me further toward
 
 Recently.... I succesfully finished my first Machine Learning project in Python! I analyzed and cleaned clinical data for stroke prediction. Then, I trained a support vector classifier to get an initial glimpse of the algorithms performance on the training data. To improve the performance, I tested some methodical data enhancement (i.e. partial resampling of minority class data), engineered helping features (i.e. risk groups), and did post-processing on the results. Eventually, I prepared an integrative pipeline to provide the setup for a global optimization via gridsearch on the parameter space. What a journey!
 
-Coming up soon.... Currently I am making my first steps in time series analysis of wind power generation data. Moreover, I am gathering information and data on smart grid projects and frameworks for power system analysis.
+Currently... I am working on a project to construct a generic time series analysis framework in sklearn, enabling myself to compare results of sklearn regressors on time series data of wind speed and wind energy production.
+
+Coming up soon.... I hope to upload my results of said fromework here soon. Moreover, I am gathering information and data on smart grid projects and frameworks for power system analysis.
 
 Eventually.... I am eager to find my professional homezone in industrial Data Science and ML projects!
 
