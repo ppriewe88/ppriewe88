@@ -5,7 +5,7 @@ I'm Patrick Priewe, a german (Karlsruhe-based) aspiring developer / data analyst
 I am currently on a path to build experteer in the field of data science.
 So far, I'm kinda falling in love with Python, and made my first (not so tiny) steps already using that fantastic technology!
 
-Professionaly, I am interested in the fields of energy economics and software. So far having gathered professional experience in product ownership and requirements engineering in SCRUM (software-focused, german SME doing CRM) and project management (said SME, as well as coordinating strategic projects in a big german energy supplier). Currently (as well as in the near future) aspiring to get deeper into technology and working for that purpose!
+Professionaly, I am interested in the fields of data science and software, and want to apply my skills to contribute to a sustainable and healthy future. So far having gathered professional experience in product ownership and requirements engineering in SCRUM (software-focused, german SME doing CRM) and project management (said SME, as well as coordinating strategic projects in a big german energy supplier). Currently (as well as in the near future) aspiring to get deeper into technology and working for that purpose!
 
 Recently.... I finished my first SQL-project! I set up a small database (using dummy data) containing various tables and relations that allow to map the processes of a small retail company. I implemented user workflows (mostly relying on DDL, DML, TCL) and triggers & procedures. Views that assist the workflows were created as well.
 
