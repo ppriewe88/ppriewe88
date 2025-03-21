@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Patrick Priewe, a german (Karlsruhe-based) aspiring developer / data analyst! 
+I'm Patrick Priewe, a german (Karlsruhe-based) aspiring developer / data scientist! 
 
 I am currently on a path to build experteer in the field of data science.
 So far, I'm kinda falling in love with Python, and made my first (not so tiny) steps already using that fantastic technology!
@@ -15,9 +15,9 @@ Recently.... I finished my second python project! This one led me further toward
 
 Recently.... I succesfully finished my first Machine Learning project in Python! I analyzed and cleaned clinical data for stroke prediction. Then, I trained a support vector classifier to get an initial glimpse of the algorithms performance on the training data. To improve the performance, I tested some methodical data enhancement (i.e. partial resampling of minority class data), engineered helping features (i.e. risk groups), and did post-processing on the results. Eventually, I prepared an integrative pipeline to provide the setup for a global optimization via gridsearch on the parameter space. What a journey!
 
-Currently... I am working on a project to construct a generic time series analysis framework in sklearn, enabling myself to compare results of sklearn regressors on time series data of wind speed and wind energy production.
+Recently... I received my Deep Learning certificate, an dfinished my first project. I did a time series analysis on wind electricity data. Then, I set up various neuronal network architectures, including LSTM and CNN networks, to make time series predictions. I build my own small tracking framework to keep track of my (numerous!) runs and architectures, to be able to select the best models for different scenarios (3h predictions, 24h predictions) at the end. 
 
-Coming up soon.... I hope to upload my results of said fromework here soon. Moreover, I am gathering information and data on smart grid projects and frameworks for power system analysis.
+Currently... I am working on an ent to end Machine Learning project, including MLOps-methods and tools such as MLFlow, FastAPI, Docker, and Azure Machine Learning.
 
 Eventually.... I am eager to find my professional homezone in industrial Data Science and ML projects!
 
