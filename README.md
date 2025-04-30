@@ -7,7 +7,7 @@ So far, I'm kinda falling in love with Python and React, and finished several pr
 
 Professionaly, I am strongly interested in the fields of software and data. So far having gathered professional experience in product ownership and requirements engineering in SCRUM (software-focused, german SME doing CRM) and project management (said SME, as well as coordinating strategic projects in a big german energy supplier). Currently (as well as in the near future) aspiring to get deeper into technology and working for that purpose!
 
-My journey into the technical fields mentioned above startet in summer 2024 and spans many practical projects so far, like (sorted from young=top to old=bottom)):
+My journey into the technical fields mentioned above startet in summer 2024 and spans many practical projects so far, like (sorted from young=top to old=bottom):
 
 ... programming a **fullstack web application** offering a **speech controlled CRM prototype**: The backend contains a local **SQL database**, and a **RAG-based retriever**. The frontend lets the user make **speech-based requests** for data, which is retrieved by an **AI generating the corresponding SQL queries**, given context about the database structure by the RAG.
 
